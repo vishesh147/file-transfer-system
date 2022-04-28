@@ -12,13 +12,7 @@ A FTP based file transferring system using C socket programming.
 3. Run Client(s) : ./bin/client.out <IP ADDR> <PORT>
 4. Use 'help' command within client prompt to use other commands.
   
-  
-  
-**Tech-Stack Used:**
-  -> C programming
-
-  -> Socket Programming
-
-  -> Network Basics
-
-  -> System Software Programming
+**Tech-Stack:**
+1. System Software Programming (Linux)
+2. Socket Programming in C
+3. Network Basics
