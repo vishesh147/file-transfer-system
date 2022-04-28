@@ -13,7 +13,7 @@ Usage:
   
   
 Tech-Stack Used: 
-C programming
-Socket Programming
-Network Basics
-System Software Programming
+-> C programming
+-> Socket Programming
+-> Network Basics
+-> System Software Programming
