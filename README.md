@@ -2,8 +2,8 @@
 
 A FTP based file transferring system using C socket programming. 
 
--Multithreaded Server Implementation
--Custom prompt Client Implementation
+- Multithreaded Server Implementation
+- Custom prompt Client Implementation
 
 **Usage:**
 1. Build project using src/makefile.
