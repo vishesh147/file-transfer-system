@@ -15,3 +15,7 @@ A FTP based file transferring system using C socket programming.
 1. System Software Programming (Linux)
 2. Socket Programming in C
 3. Network Basics
+
+
+![alt text](https://github.com/vishesh147/file-transfer-system/blob/main/FileTransferSystem1.png)
+![alt text](https://github.com/vishesh147/file-transfer-system/blob/main/FileTransferSystem2.png)
